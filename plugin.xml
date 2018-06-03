@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="lycwed-cordova-plugin-admob-applovin" version="1.0.0"
+<plugin id="cordova-plugin-admob-mediation-applovin" version="1.0.0"
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <name>lycwed-cordova-plugin-admob-applovin</name>
+    <name>cordova-plugin-admob-mediation-applovin</name>
     <description>Cordova AdMob Mediation Plugin for AppLovin</description>
 
     <engines>
